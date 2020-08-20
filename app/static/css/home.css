@@ -1,0 +1,7 @@
+.home_body{padding-top:20px;}
+.home_tab{display: flex;width:100%;}
+.home_tab span{display: flex;flex:1;justify-content: center;}
+.home_tab span.active{
+    color:skyblue;
+    border:1px solid skyblue;
+}
